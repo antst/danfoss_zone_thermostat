@@ -2,10 +2,10 @@
   "domain": "danfoss_zone_thermostat",
   "name": "Danfoss zone thermostat",
   "documentation": "https://github.com/antst/danfoss_zone_thermostat",
+  "issue_tracker": "https://github.com/antst/danfoss_zone_thermostat/issues",
   "dependencies": ["sensor", "climate"],
   "codeowners": ["@antst"],
   "requirements": [],
-  "dependencies": [],
   "iot_class": "local_polling",
   "version": "1.0"
 }
